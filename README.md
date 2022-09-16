@@ -2,6 +2,7 @@
 I am a 3rd year student of NSU, Faculty of Information Technology.
 
 Intern in Sber Laboratory.
+
 GPA 4.8/5.0
 - 🌱 I’m currently learning Golang and cloud technology
 
